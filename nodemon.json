@@ -1,0 +1,7 @@
+{
+  "quiet": false,
+  "watch": ["src"],
+  "ext": "ts,json",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "yarn dev"
+}
